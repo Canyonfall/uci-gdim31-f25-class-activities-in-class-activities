@@ -3,6 +3,10 @@
 ### W1
 Write your W1 activity Devlog here.
 
+itch link: https://canyonfall.itch.io/mon-sep-28
+
+Answer: The camera(pov) will not move, but the cat will move around when player press wasd. 
+
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
